@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,EACE,qBAAqB,CACrB,YAEF,CACA,KACE,sCAEF","file":"main.f9f50804.chunk.css","sourcesContent":["*{\n  box-sizing:border-box;\n  margin:'0px';\n\n}\nbody{\n  font-family:Arial,Helvetica,sans-serif;\n\n}\n\n"]}
