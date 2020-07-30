@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/tutorials-front-end-react/static/css/main.f9f50804.chunk.css",
-    "main.js": "/tutorials-front-end-react/static/js/main.d2bf9f7e.chunk.js",
-    "main.js.map": "/tutorials-front-end-react/static/js/main.d2bf9f7e.chunk.js.map",
+    "main.js": "/tutorials-front-end-react/static/js/main.643021e2.chunk.js",
+    "main.js.map": "/tutorials-front-end-react/static/js/main.643021e2.chunk.js.map",
     "runtime-main.js": "/tutorials-front-end-react/static/js/runtime-main.db94c327.js",
     "runtime-main.js.map": "/tutorials-front-end-react/static/js/runtime-main.db94c327.js.map",
     "static/js/2.819b4808.chunk.js": "/tutorials-front-end-react/static/js/2.819b4808.chunk.js",
     "static/js/2.819b4808.chunk.js.map": "/tutorials-front-end-react/static/js/2.819b4808.chunk.js.map",
     "index.html": "/tutorials-front-end-react/index.html",
-    "precache-manifest.d7bcc0b5cad37e9cbfa65b75c1d12b5c.js": "/tutorials-front-end-react/precache-manifest.d7bcc0b5cad37e9cbfa65b75c1d12b5c.js",
+    "precache-manifest.3b8b5531cf48e4507888b9713cfafe3b.js": "/tutorials-front-end-react/precache-manifest.3b8b5531cf48e4507888b9713cfafe3b.js",
     "service-worker.js": "/tutorials-front-end-react/service-worker.js",
     "static/css/main.f9f50804.chunk.css.map": "/tutorials-front-end-react/static/css/main.f9f50804.chunk.css.map",
     "static/js/2.819b4808.chunk.js.LICENSE.txt": "/tutorials-front-end-react/static/js/2.819b4808.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.db94c327.js",
     "static/js/2.819b4808.chunk.js",
     "static/css/main.f9f50804.chunk.css",
-    "static/js/main.d2bf9f7e.chunk.js"
+    "static/js/main.643021e2.chunk.js"
   ]
 }
